@@ -1,8 +1,9 @@
-body {
-  padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+form {
+  display: flex;
+  flex-direction: column;
+  width: 400px;
 }
-
-a {
-  color: #00B7FF;
+input,
+button {
+  margin-bottom: 15px;
 }
